@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eliwolf18
-- 👀 I’m interested in ... software engineering including machine learning , cloud computing and data engineering
+- 👀 I’m interested in ... software engineering including machine learning and data science
 - 🌱 I’m currently learning ... java , python, ML , AI , database
 - 💞️ I’m looking to collaborate on ... app development and cs jobs
 - 📫 How to reach me ...IG @dreamchasrs <
